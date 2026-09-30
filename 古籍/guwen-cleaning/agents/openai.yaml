@@ -1,0 +1,4 @@
+interface:
+  display_name: "古籍清洗"
+  short_description: "古籍文本清洗：标点补全、标题结构化、概念条目化、诗诀整理"
+  default_prompt: "清洗古籍文本：补标点、拆分标题、结构化概念条目"

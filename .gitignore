@@ -1,0 +1,27 @@
+# ===== 个人分析产出：不入库 =====
+分析报告-*.md
+分析报告/
+cases/
+memory/
+
+# ===== 开发计划与工作稿：不入库 =====
+TODO.md
+workbuddy-*.yml
+workbuddy-*.yaml
+*.patch
+
+# ===== 本机配置 =====
+.pi/settings.json
+.pi/APPEND_SYSTEM.md
+
+# ===== 评测缓存与中间产物 =====
+__pycache__/
+*.pyc
+古籍/eval/data/emb_cache.jsonl
+古籍/eval/data/*.log
+古籍/eval/data/pools_*.jsonl
+古籍/eval/data/nav_all*.log
+
+# ===== 其它 =====
+.DS_Store
+*.tmp
